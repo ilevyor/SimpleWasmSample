@@ -9,5 +9,5 @@ crate-type = ["cdylib"]
 
 [dependencies]
 wasm-bindgen = "0.2.89"
-tree-sitter-javascript = { path = "../tree-sitter-javascript" }
-tree-sitter = "0.20.10"
+# tree-sitter-javascript = { path = "../tree-sitter-javascript" }
+# tree-sitter = "0.20.10"
